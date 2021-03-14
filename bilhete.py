@@ -8,7 +8,7 @@ data = {
     "87-437": 16, "94-121": 15, "94-122": 35, "80-089": 10, "87-456": 8, 
     "87-430": 40
 }
-age = 16
+age = 10
 #your code goes here
 
 # Você está analisando dados de vendas de uma bilheteria.
